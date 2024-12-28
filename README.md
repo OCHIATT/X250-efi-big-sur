@@ -17,3 +17,11 @@ This repository contains resources needed for setting up Big Sur on ThinkPad X25
 - Audio through jack (miniDP works fine)
 - WebCam (in progress)
 - SD Card Reader (not tested yet)
+
+
+
+## Contributing
+If you have any suggestions, improvements, or additional resources to share, feel free to contribute to this repository. Fork the repository, make your changes, and submit a pull request.
+
+## Disclaimer
+Please be aware that Hackintoshing may violate Apple's End User License Agreement (EULA), and it may also involve complex technical processes that could potentially cause damage to your hardware. Use the information and resources provided in this repository at your own risk. The repository maintainers and contributors are not responsible for any damage or legal implications resulting from the use of this information.
