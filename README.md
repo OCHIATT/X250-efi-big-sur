@@ -11,10 +11,10 @@ This repository contains resources needed for setting up Big Sur on ThinkPad X25
 | Wifi           | Intel AC-7265 Dual Band + Bluetooth       |
 
 
-## Not Working ​⚙️​🚫​
+## Known Issues ​⚙️​🚫​
 - VGA
 - Fingerprint reader
-- Audio through jack (miniDP works fine)
+- Audio through 3.5 jack (miniDP works fine)
 - WebCam (in progress)
 - SD Card Reader (not tested yet)
 
