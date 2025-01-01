@@ -1,4 +1,4 @@
-# X250-efi-big-sur
+# X250 efi Big Sur OpenCore
 This repository contains resources needed for setting up Big Sur on ThinkPad X250.
 
 ## Configuration 🪛​ 
