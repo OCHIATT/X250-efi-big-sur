@@ -1,4 +1,4 @@
-# X250 EFI Big Sur OpenCore
+# X250 EFI BigSur OpenCore
 This repository contains resources needed for setting up Big Sur on ThinkPad X250.
 
 ## Configuration 🪛​ 
@@ -15,7 +15,7 @@ This repository contains resources needed for setting up Big Sur on ThinkPad X25
 At the suggestion of user "Crash Override" from [/r/Hackintosh Paradise](https://discord.gg/u8V7N5C "/r/Hackintosh Paradise")
 Broadwell machines struggle to dmg boot, so I created the bootable usb with [gibMacOS](https://github.com/corpnewt/gibMacOS "/r/Hackintosh Paradise").
 I followed [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's Guide") and I was able to make the machine work seamlessly.
-Follow the [Post Intall Guide](https://dortania.github.io/OpenCore-Post-Install/) "Post Install Guide") as well. 
+Follow the [Post Intall Guide](https://dortania.github.io/OpenCore-Post-Install/ "Post Install Guide") as well. 
 
 ## Known Issues ​🚫​
 - VGA
