@@ -10,19 +10,19 @@ This repository contains resources needed for setting up Big Sur on ThinkPad X25
 | Storage      	 | 128GB TS120GMTS420S M2.2242 SSD           |
 | Wifi           | Intel AC-7265 Dual Band + Bluetooth       |
 
-## Installation 🔧
+
+## Installation 🔧⚙️
 At the suggestion of user "Crash Override" from [/r/Hackintosh Paradise](https://discord.gg/u8V7N5C "/r/Hackintosh Paradise")
-Broadwell machines struggle to dmg boot, so I created the bootable usb with [gibMacOS](https://github.com/corpnewt/gibMacOS "/r/Hackintosh Paradise")
+Broadwell machines struggle to dmg boot, so I created the bootable usb with [gibMacOS](https://github.com/corpnewt/gibMacOS "/r/Hackintosh Paradise").
 I followed [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's Guide") and I was able to make the machine work seamlessly.
 Follow the [Post Intall Guide](https://dortania.github.io/OpenCore-Post-Install/) "Post Install Guide") as well. 
 
-## Known Issues ​⚙️​🚫​
+## Known Issues ​🚫​
 - VGA
 - Fingerprint reader
 - Audio through 3.5 jack (miniDP works fine)
 - WebCam (in progress)
 - SD Card Reader (in progress)
-
 
 
 ## Contributing 🆘
